@@ -8,6 +8,9 @@
     ✈️ Traveling.
     
 - 🌱 He's currently learning Technologies for Backend Development.
+            📗C# - Entity Framework
+            📒Node-JS
+            📘Python
 - 💞️ He's looking to collaborate on projects Javascript, projects open source.
 - 📫 How to reach me:
   💌Mail: franmurillo894@gmail.com
