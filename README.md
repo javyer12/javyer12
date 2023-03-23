@@ -2,6 +2,11 @@
 
       🌐🌐🌐 Front-End Developer  🌐🌐🌐
       
+      🧰Tools:
+            React/Next js
+            Typescript
+            Bootstrap5
+      
 - 👀 Francisco is interested in:
     ⚽️ Football.
     🎬 Films.
